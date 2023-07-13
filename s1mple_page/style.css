@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: hsl(0, 0%, 100%);
+}
+
+h2 {
+  color: hsl(0, 0%, 100%);
+}
+
+p {
+  color: hsl(0, 0%, 100%);
+}
+.btn {
+  display: inline-block; /* Строчно-блочный элемент */
+  background: #544ae3; /* Серый цвет фона */
+  color: #fff; /* Белый цвет текста */
+  padding: 1rem 1.5rem; /* Поля вокруг текста */
+  text-decoration: none; /* Убираем подчёркивание */
+  border-radius: 3px; /* Скругляем уголки */
+ }
